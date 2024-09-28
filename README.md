@@ -28,7 +28,7 @@ Differences from the original
 <h1>Case Manufacturing</h1>
 <ul>
   <li>Designed to be cut from 3mm acrylic</li>
-  <li>I have included 2 variants of the 'Foot2' and 'Foot 3'layers. A standard version for use with a PCB and a handwire/HW version with mounting points for a daughterboard</li>
+  <li>I have included 2 variants of the layers 9 & 10. A standard version for use with a PCB and a handwire/HW version with mounting points for a daughterboard</li>
   <li>There are multiple versions of the top layer with different accents to the side of the F-Row</li>
   <li>If you want more space in the case you could double up on one of the layers (I would recommend 4)</li>
 </ul>
