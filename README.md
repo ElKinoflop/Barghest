@@ -33,6 +33,8 @@ Differences from the original
   <li>If you want more space in the case you could double up on one of the layers (I would recommend 4)</li>
 </ul>
 
+<img src="images/barghestcasecombined.jpg" alt="Barghest Case Layers">
+
 <h1>Bill of Materials</h1>
 <ul>
   <li>One of each DXF file (except for the plate) cut from 3mm acrylic</li>
