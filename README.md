@@ -48,6 +48,7 @@ Differences from the original
   </li>
   <li>Optional - WS2812B LEDs</li>
   <li>Wire! Solid core 22 AWG suggested</li>
+  <li>Optional - Headers and dupont wires so the controller can easily be unplugged if required</li>
   <li>60x MX Switches</li>
   <li>60x 1N4148 Diodes</li>
   <li></li>
@@ -55,6 +56,10 @@ Differences from the original
 
 <h1>Firmware</h1>
 I have used <a href="https://pog.heaper.de/" target="_blank">POG</a>  to create <a href="https://github.com/KMKfw/kmk_firmware" target="_blank">KMK</a> firmware. POG makes creating firmware super simple but I might learn how to create QMK/VIAL firmware at some point!
+
+<h1>Handwired Matrix</h1>
+This is how I handwired the Matrix. Excuse the poor soldering (and out of focus photo), it was my first attempt at handwiring. Each row and column will also need a wire going to the MCU. I used dupont wires and soldered headers to the controller so they can easily be removed.
+<img src="images/barghestsolderedmatrix.jpg" alt="Barghest Handiwired Matrix">
 
 <h1>PCB</h1>
 xshrimped is working on a compatible PCB with some extra layout options. The plate file will need to be modified to accomodate these options.
