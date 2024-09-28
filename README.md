@@ -35,6 +35,8 @@ Differences from the original
 
 <img src="images/barghestcasecombined.jpg" alt="Barghest Case Layers">
 
+<h1>Case Assembly</h1>
+
 <h1>Bill of Materials</h1>
 <ul>
   <li>One of each DXF file (except for the plate) cut from 3mm acrylic</li>
