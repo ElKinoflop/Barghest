@@ -41,14 +41,14 @@ Differences from the original
 
 <h1>Bill of Materials</h1>
 <ul>
-  <li>One of each DXF file (except for the plate) cut from 3mm acrylic</li>
+  <li>One of each DXF file (except for the plate) cut from 3mm acrylic. As a rough idea of cost <a href="https://mechboards.co.uk/" target="_blank">Mechboards.co.uk</a> was the best price I could find in the UK to get the acrylic cut at around £65-£75 depending on what acrylic you choose</li>
   <li>Plate DXF file cut from 1.5mm metal/carbon. Plastic is not suggested as it will be too flexy and your switches will probably pop out</li>
   <li>8-9mm silicone rubber bumpon or similar. Even with a stiffer plate it will still sag in the middle when built handwired. Extra mounting points could be added to fix this but I had already got a plate cut! This Bumpon is stuck to the under side of the plate (between the B and N keys) to support the plate. If a PCB is used this shouldn't be required</li>
   <li><a href="https://www.waveshare.com/wiki/RP2040-Tiny" target="_blank">Waveshare RP2040-Tiny</a></li>
   <li>M2 Standoffs with a outside diameter of 3mm. 16, 8 and 6mm lengths</li>
   <li>M2 Hex socket button head bolts. 5, 6 and 8mm lengeths. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
   <li>M2 Washers. To go under the bolt heads that hold the daughterboard in. These might not be required. <a href="https://www.aliexpress.com/item/1005003697132040.html" target="_blank">AliExpress M2 0.5mm thickness plastic washers</a></li>
-  <li>Optional - WS2812B LEDs</li>
+  <li>Optional - WS2812B LEDs. There's enough pins on the controller to add some RGB if you want</li>
   <li>Wire! Solid core 22 AWG suggested</li>
   <li>Optional - Headers and dupont wires so the controller can easily be unplugged if required</li>
   <li>60x MX Switches</li>
