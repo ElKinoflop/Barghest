@@ -4,6 +4,8 @@
 
 Stacked acrylic keyboard case designed for handwiring with a <a href="https://www.waveshare.com/wiki/RP2040-Tiny" target="_blank">Waveshare RP2040-Tiny</a>. Iterated from <a href="https://p3dstore.notion.site/P3Dstore-Open-Source-Project-List-6e85900337294e769fb7b8fa68d68f27" target="_blank">P3D Jake's Hydra Invisibolt case</a> which was designed for <a href="https://mechvault.net/" target="_blank">MechVault's</a>  Hydra PCB. Thanks Jake for allowing me to open source this after I took his Hydra case designed and <s>ruined</s> modified it. Thanks Cain at MechVault for the layout inspiration. If you decide to make one of these then consider donating to <a href="https://buymeacoffee.com/p3dstore" target="_blank"> Jake's coffee fund</a>.
 
+Feel free to do whatever you want with the files. If you have any questions just ask (discord username elkinoflop) and if you make one then share a photo with me!
+
 Differences from the original
 <ul>
   <li>Added F-Row with accents to the side</li>
@@ -67,5 +69,6 @@ Depending on the cutting of the acrylic you might find some of the standoffs tig
 
 <h1>PCB</h1>
 xshrimped is working on a compatible PCB with some extra layout options. The plate file will need to be modified to accomodate these options.
+<p></p>
 
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241010_131253311.jpg" alt="Barghest Keyboard Photo">
