@@ -35,7 +35,7 @@ Differences from the original
   <li>If you want more space in the case you could double up on one of the layers (I would recommend 4). I didn't do this but depending on how bulky your handwiring is you might find the case tight for space</li>
 </ul>
 
-<img src="images/barghestcasecombined.jpg" alt="Barghest Case Layers">
+<img src="images/barghestcasecombined.png" alt="Barghest Case Layers">
 
 <h1>Case Assembly</h1>
 
