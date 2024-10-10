@@ -1,5 +1,7 @@
 # Barghest Keyboard
 
+<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241010_131412810.jpg" alt="Barghest Keyboard Photo">
+
 Stacked acrylic keyboard case designed for handwiring with a <a href="https://www.waveshare.com/wiki/RP2040-Tiny" target="_blank">Waveshare RP2040-Tiny</a>. Iterated from <a href="https://p3dstore.notion.site/P3Dstore-Open-Source-Project-List-6e85900337294e769fb7b8fa68d68f27" target="_blank">P3D Jake's Hydra Invisibolt case</a> which was designed for <a href="https://mechvault.net/" target="_blank">MechVault's</a>  Hydra PCB. Thanks Jake for allowing me to open source this after I took his Hydra case designed and <s>ruined</s> modified it. Thanks Cain at MechVault for the layout inspiration. If you decide to make one of these then consider donating to <a href="https://buymeacoffee.com/p3dstore" target="_blank"> Jake's coffee fund</a>.
 
 Differences from the original
@@ -8,7 +10,7 @@ Differences from the original
   <li>Removed the 'invisibolt' part so there are now visible bolts on the top</li>
   <li>Added extra foot layer</li>
   <li>Added cutout to the base to allow a bit more space for handwiring</li>
-  <li>Added Mounting points for daughterboard</li>
+  <li>Added mounting points for the daughterboard</li>
   <li>Slightly reshaped the feet and front edge</li>
   <li>Only a single (stabless) layout</li>
   <li>No gaskets</li>
@@ -62,3 +64,5 @@ This is how I handwired the Matrix. Excuse the poor soldering (and out of focus 
 
 <h1>PCB</h1>
 xshrimped is working on a compatible PCB with some extra layout options. The plate file will need to be modified to accomodate these options.
+
+<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241010_131253311.jpg" alt="Barghest Keyboard Photo">
