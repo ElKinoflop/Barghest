@@ -4,7 +4,7 @@
 
 Stacked acrylic keyboard case designed for handwiring with a <a href="https://www.waveshare.com/wiki/RP2040-Tiny" target="_blank">Waveshare RP2040-Tiny</a>. Iterated from <a href="https://p3dstore.notion.site/P3Dstore-Open-Source-Project-List-6e85900337294e769fb7b8fa68d68f27" target="_blank">P3D Jake's Hydra Invisibolt case</a> which was designed for <a href="https://mechvault.net/" target="_blank">MechVault's</a>  Hydra PCB. Thanks Jake for allowing me to open source this after I took his Hydra case designed and <s>ruined</s> modified it. Thanks Cain at MechVault for the layout inspiration. If you decide to make one of these then consider donating to <a href="https://buymeacoffee.com/p3dstore" target="_blank"> Jake's coffee fund</a>.
 
-Feel free to do whatever you want with the files. If you have any questions just ask (discord username elkinoflop) and if you make one then share a photo with me!
+Feel free to do whatever you want with the files. If you have any questions just ask (Discord username elkinoflop) and if you make one then share a photo with me!
 
 Differences from the original
 <ul>
@@ -39,8 +39,6 @@ Differences from the original
 
 <img src="images/barghestcasecombined.png" alt="Barghest Case Layers">
 
-<h1>Case Assembly</h1>
-
 <h1>Bill of Materials</h1>
 <ul>
   <li>One of each DXF file (except for the plate) cut from 3mm acrylic</li>
@@ -64,7 +62,7 @@ I used <a href="https://pog.heaper.de/" target="_blank">POG</a>  to create <a hr
 This is how I handwired the Matrix. Excuse the poor soldering (and out of focus photo), it was my first attempt at handwiring. Each row and column will also need a wire going to the MCU. I used dupont wires and soldered headers to the controller so they can easily be removed.
 <img src="images/barghestsolderedmatrix.jpg" alt="Barghest Handiwired Matrix">
 
-<h1>Assembly</h1>
+<h1>Case Assembly</h1>
 Depending on the cutting of the acrylic you might find some of the standoffs tight to push through. Don't force them through. I used a small round file useful just to very slightly widen a couple of holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' was the perfect size.
 
 <h1>PCB</h1>
