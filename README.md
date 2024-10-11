@@ -66,8 +66,4 @@ This is how I handwired the Matrix. Excuse the poor soldering (and out of focus 
 <h1>Case Assembly</h1>
 Depending on the cutting of the acrylic you might find some of the standoffs tight to push through. Don't force them through. I used a small round file useful just to very slightly widen a couple of holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' was the perfect size.
 
-<h1>PCB</h1>
-xshrimped is working on a compatible PCB with some extra layout options. The plate file will need to be modified to accomodate these options.
-<p></p>
-
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241010_131253311.jpg" alt="Barghest Keyboard Photo">
