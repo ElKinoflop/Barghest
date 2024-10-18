@@ -64,7 +64,7 @@ I used <a href="https://pog.heaper.de/" target="_blank">POG</a>  to create <a hr
 This is how I handwired the Matrix. Excuse the poor soldering (and out of focus photo), it was my first attempt at handwiring. Each row and column will also need a wire going to the MCU. I used dupont wires and soldered headers to the controller so they can easily be removed.
 <img src="images/barghestsolderedmatrix.jpg" alt="Barghest Handiwired Matrix">
 
-<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/barghestsolderedcomplete.jpg" alt="Barghest Handiwired Complete">
+<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/barghestsolderleds.jpg" alt="Barghest Handiwired Complete">
 
 <h1>Case Assembly</h1>
 Depending on the cutting of the acrylic you might find some of the standoffs tight to push through. Don't force them through. I used a small round file useful just to very slightly widen a couple of holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' was the perfect size.
