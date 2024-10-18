@@ -1,6 +1,6 @@
 # Barghest Keyboard
 
-<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241010_131412810.jpg" alt="Barghest Keyboard Photo">
+<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241018_081939565~2.jpg" alt="Barghest Keyboard Photo">
 
 Stacked acrylic keyboard case designed for handwiring with a <a href="https://www.waveshare.com/wiki/RP2040-Tiny" target="_blank">Waveshare RP2040-Tiny</a>. Iterated from <a href="https://p3dstore.notion.site/P3Dstore-Open-Source-Project-List-6e85900337294e769fb7b8fa68d68f27" target="_blank">P3D Jake's Hydra Invisibolt case</a> which was designed for <a href="https://mechvault.net/" target="_blank">MechVault's</a>  Hydra PCB. Thanks Jake for allowing me to open source this after I took his Hydra case designed and <s>ruined</s> modified it. Thanks Cain at MechVault for the layout inspiration. If you decide to make one of these then consider donating to <a href="https://buymeacoffee.com/p3dstore" target="_blank"> Jake's coffee fund</a>.
 
@@ -49,6 +49,7 @@ Differences from the original
   <li>M2 Standoffs with a outside diameter of 3mm. 16, 8 and 6mm lengths</li>
   <li>M2 Hex socket button head bolts. 5, 6 and 8mm lengeths. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
   <li>M2 Washers. To go under the bolt heads that hold the daughterboard in. These might not be required. <a href="https://www.aliexpress.com/item/1005003697132040.html" target="_blank">AliExpress M2 0.5mm thickness plastic washers</a></li>
+<li>M2 nuts to hold the daughterboard</li>
   <li>Optional - WS2812B LEDs. There's enough pins on the controller to add some RGB if you want</li>
   <li>Wire! Solid core 22 AWG suggested</li>
   <li>Optional - Headers and dupont wires so the controller can easily be unplugged if required</li>
@@ -63,7 +64,9 @@ I used <a href="https://pog.heaper.de/" target="_blank">POG</a>  to create <a hr
 This is how I handwired the Matrix. Excuse the poor soldering (and out of focus photo), it was my first attempt at handwiring. Each row and column will also need a wire going to the MCU. I used dupont wires and soldered headers to the controller so they can easily be removed.
 <img src="images/barghestsolderedmatrix.jpg" alt="Barghest Handiwired Matrix">
 
+<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/barghestsolderedcomplete.jpg" alt="Barghest Handiwired Complete">
+
 <h1>Case Assembly</h1>
 Depending on the cutting of the acrylic you might find some of the standoffs tight to push through. Don't force them through. I used a small round file useful just to very slightly widen a couple of holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' was the perfect size.
 
-<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241010_131253311.jpg" alt="Barghest Keyboard Photo">
+<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241018_081822364~2.jpg" alt="Barghest Keyboard Photo">
