@@ -1,0 +1,4 @@
+This pcb only works with RP2040 pro micros make sure your pro micro has the 5 bottom pins
+please solder the diodes with the bottom line on them facing towards the line on the silkscreen
+
+if you have any more questions please dm xshrimped
