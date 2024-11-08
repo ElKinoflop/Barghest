@@ -70,3 +70,6 @@ This is how I handwired the Matrix. Excuse the poor soldering (and out of focus 
 Depending on the cutting of the acrylic you might find some of the standoffs tight to push through. Don't force them through. I used a small round file useful just to very slightly widen a couple of holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' was the perfect size.
 
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241018_081822364~2.jpg" alt="Barghest Keyboard Photo">
+
+<h1>PCB</h1>
+There is a PCB by ShrimpedKeyboard that uses an external pro micro style RP2040 controller. This PCB is untested.
