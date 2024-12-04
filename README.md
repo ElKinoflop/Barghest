@@ -70,7 +70,7 @@ This is how I handwired the Matrix. Excuse the poor soldering (and out of focus 
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/barghestsolderleds.jpg" alt="Barghest Handiwired Complete">
 
 <h1>Case Assembly</h1>
-Depending on the cutting of the acrylic you might find some of the standoffs tight to push through. Don't force them through. I used a small round file useful just to very slightly widen a couple of holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' was the perfect size.
+If you find some of the standoffs tight to push through don't force them. Use a small round file if you need to slightly widen any holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' is the perfect size.
 
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241018_081822364~2.jpg" alt="Barghest Keyboard Photo">
 
