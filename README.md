@@ -50,6 +50,7 @@ Differences from the original
   <li>M2 Hex socket button head bolts. 5, 6 and 8mm lengths. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
   <li>M2 Washers. To go under the bolt heads that hold the daughterboard in. These might not be required. <a href="https://www.aliexpress.com/item/1005003697132040.html" target="_blank">AliExpress M2 0.5mm thickness plastic washers</a></li>
 <li>M2 nuts to hold the daughterboard. Included with the standoffs linked above</li>
+  <li>Adhesive feet</li>
   <li>Optional - WS2812B LEDs. There's enough pins on the controller to add some RGB if you want</li>
   <li>Wire! Solid core 22 AWG suggested</li>
   <li>Optional - Headers (right angle, single row, 2.54mm pin pitch) and dupont wires so the controller can easily be unplugged if required. <a href="https://thepihut.com/products/thepihuts-jumper-bumper-pack-120pcs-dupont-wire" target="_blank">The Pi Hut Dupont wires</a></li>
